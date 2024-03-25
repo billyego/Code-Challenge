@@ -18,7 +18,7 @@ This program computes an individual's net salary using the basic wage and benefi
 5.Run the Project
 
 ## Installation requirements
-
+N/A
 
 ## Installation Guide
 #### 1.Clone the repository:
