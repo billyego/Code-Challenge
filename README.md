@@ -22,7 +22,7 @@ This program computes an individual's net salary using the basic wage and benefi
 
 ## Installation Guide
 #### 1.Clone the repository:
-Clone the repository from the GitHub URL provided.
+Clone the repository from the GitHub https://github.com/billyego/Code-Challenge/tree/main.
 #### 2.Navigate to the Project Directory:
 Change your current directory to the project directory.
 #### 3.Install Dependencies:
@@ -35,7 +35,7 @@ Run the project using the appropriate command. This command may vary depending o
 Once the project is running, you can access the application by opening a web browser and navigating to the specified URL. This URL should be provided in the project documentation or console output.
 
 # Live Link
-
+https://github.com/billyego/Code-Challenge/tree/main
 
 ## Technologies used
 HTML
